@@ -8,8 +8,8 @@ My projects involve exploring data, building visualizations, fitting models, and
 
 | Project | Focus | Materials |
 | --- | --- | --- |
-| [Gamma-ray calibration & Compton scattering](projects/nuclear-physics/) | Detector data filtering, Gaussian peak fitting, calibration, residual analysis, and coincidence measurements | Project overview available; Lab 4 notebook upload pending |
-| [Plasma probe data analysis](projects/plasma-analysis/) | Preparing Langmuir probe data and exploring models for extrapolating plasma conditions | Project overview available; notebook upload pending |
+| [Gamma-ray calibration & Compton scattering](projects/nuclear-physics/) | Detector data filtering, Gaussian peak fitting, calibration, residual analysis, and coincidence measurements | [Notebook](projects/nuclear-physics/lab4_gamma_ray_analysis.ipynb) with saved figures and outputs |
+| [Plasma probe data analysis](projects/plasma-analysis/) | Preparing Langmuir probe data and exploring models for extrapolating plasma conditions | [Notebook](projects/plasma-analysis/plasma_probe_analysis.ipynb) |
 
 ## Selected coursework
 

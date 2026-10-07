@@ -20,7 +20,7 @@ I performed the analysis and visualization work using my own code and instructor
 
 ## Materials
 
-The notebook has been reviewed for this portfolio but has not yet been uploaded to this folder. Intended filename: `lab4_gamma_ray_analysis.ipynb`.
+[View the Lab 4 notebook](lab4_gamma_ray_analysis.ipynb).
 
 The current notebook includes saved plots and fit outputs. Its original measurement files and a supporting angle screenshot are not included in this repository. The analysis uses Google Colab `/content/` paths and requires those inputs to run from start to finish.
 

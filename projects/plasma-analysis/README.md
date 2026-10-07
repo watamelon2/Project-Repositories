@@ -14,7 +14,7 @@ This was a collaborative project. The notebook and accompanying notes will ident
 
 ## Materials
 
-The project notebook has not yet been uploaded. Intended filename: `plasma_probe_analysis.ipynb`.
+[View the project notebook](plasma_probe_analysis.ipynb).
 
 Detailed results, input-file requirements, and reproduction instructions will be documented alongside the notebook after it is added.
 
